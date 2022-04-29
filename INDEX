@@ -1,0 +1,5 @@
+tkeval		Evalutate a tcl/tk command.
+tkloop	        Invoke the tcl/tk event loop.
+tkset           Set a tcl/tk variable.
+tkget           Get the value of a tcl/tk variable.
+tkreset         Close/Reset the tcl/tk interpreter.

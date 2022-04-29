@@ -1,0 +1,9 @@
+1) You should looks to the definition of TCLLIBS in src/Makefile before
+   building.
+
+2) Tested only with tcl/tk 8.xx.
+
+3) To test the installation, try 'library(tcltk); example(tcltk)' from a
+   running R process. The tcl/tk source of 'density' example (it is in
+   exec/density.tcl) has been preparared 'visually' in less than 5 minutes
+   using Visual Tcl (http://www.neuron.com/stewart/vtcl).  
